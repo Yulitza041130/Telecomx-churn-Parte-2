@@ -1,8 +1,8 @@
 # Predicción de Cancelación de Clientes (Churn) — Telecom X
 
 ##  Descripción
-Este proyecto corresponde al **Desafío Telecom X**, cuyo objetivo es **predecir la cancelación de clientes** (*churn*) en una empresa de telecomunicaciones.  
-A partir de un dataset tratado y balanceado, se entrenaron y evaluaron distintos modelos de Machine Learning, identificando además los factores que más influyen en la decisión de cancelar.
+Este proyecto corresponde a la segunda parte del **Desafío Telecom X**, cuyo objetivo es **predecir la cancelación de clientes** (*churn*) en una empresa de telecomunicaciones.  
+A partir de un dataset tratado y balanceado (en la primera parte), se entrenaron y evaluaron distintos modelos de Machine Learning, identificando además los factores que más influyen en la decisión de cancelar.
 
 ---
 
